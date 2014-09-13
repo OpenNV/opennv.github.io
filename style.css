@@ -1,0 +1,11 @@
+.vertCenteredImage
+{
+	display:inline-block;
+	height:100%;
+	vertical-align: middle;
+}
+
+body
+{
+	background-color:#DDD;
+}
